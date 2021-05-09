@@ -78,7 +78,6 @@
     @media (max-width: 768px) {
         .card-deck .card {
             min-width: 33.4%;
-            /* 2 Columns */
         }
         .card {
             margin-top: 30px;
